@@ -1,2 +1,1 @@
-# beginning-bioinformatics
-Beginning bioinformatics course code
+Laura Ann Moore + 1002303870 + BIOL5340-001
